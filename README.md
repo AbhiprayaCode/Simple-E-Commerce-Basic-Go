@@ -1,7 +1,7 @@
 # E-commerce Project 2024
 
 ## Project Goal
-The goal of this project is to develop a fully functional e-commerce website. Our platform will provide users with a seamless online shopping experience, including features such as product browsing, user authentication, shopping cart functionality, and secure checkout process.
+The goal of this project is to develop a fully functional e-commerce website. Our platform will provide users with a seamless online shopping experience, including product browsing, user authentication, shopping cart functionality, and a secure checkout process.
 
 ## Team Members
 - Alif (Project Manager)
@@ -30,3 +30,4 @@ The goal of this project is to develop a fully functional e-commerce website. Ou
 
 ##Task Distribution
 - Product List (Ragil)
+- Flask (Ragil)
