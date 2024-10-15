@@ -6,7 +6,7 @@
 3. Marioe Tri Wardhana (GitHub Name) - 0012023
 4. Ragil Maulana Ilyasha (ragilmi) - 0012023
 
-##Project Goal
+## Project Goal
 
 
-##Task Assignments
+## Task Assignments
