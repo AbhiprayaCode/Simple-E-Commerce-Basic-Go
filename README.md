@@ -27,3 +27,6 @@ The goal of this project is to develop a fully functional e-commerce website. Ou
 - Database design and management
 - Server-side API development
 - User authentication and authorization
+
+##Task Distribution
+- Product List (Ragil)
